@@ -386,38 +386,57 @@
           </div>
         </div>
 
-        <div class="row">
+        <!--div class="row">
           <div class="col-md-3">
             <div class="member">
               <div class="pic"><img src="assets/img/service/1.jpeg" alt=""></div>
               <h4>Makeup Treatment</h4>
               <span>We have good Makeup Artists</span>
             </div>
+          </div-->
+
+          <div class="card-group">
+            <div class="card">
+              <img src="assets/img/service/1.jpeg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Makeup</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <h4 class="card-text"><small class="text-body-secondary"><strong style="color: rgba(16, 15, 15, 0.852);">Rs:4000.00</strong></small></h4>
+                <a href="/login" class="btn btn-primary">BOOK NOW</a>
+              </div>
+            </div>
+            <div class="card">
+              <img src="assets/img/service/2.jpeg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Hair Care</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+                <h4 class="card-text"><small class="text-body-secondary"><strong style="color: rgba(16, 15, 15, 0.852);">Rs:4000.00</strong></small></h4>
+                <a href="/login" class="btn btn-primary">BOOK NOW</a>
+              </div>
+            </div>
+            <div class="card">
+              <img src="assets/img/service/6.jpeg" class="card-img-top" alt="...">
+              <div class="card-body">
+                <h5 class="card-title">Skin Care</h5>
+                <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even  to show that equal height action.</p>
+                <h4 class="card-text"><small class="text-body-secondary"><strong style="color: rgba(16, 15, 15, 0.852);">Rs:4000.00</strong></small></h4>
+                <a href="/login" class="btn btn-primary">BOOK NOW</a>
+              </div>
+            </div>
+            <div class="card">
+                <img src="assets/img/service/7.jpeg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Nail Care</h5>
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even to show that equal height action.</p>
+                  <h4 class="card-text"><small class="text-body-secondary"><strong style="color: rgba(16, 15, 15, 0.852);">Rs:4000.00</strong></small></h4>
+                  <a href="/login" class="btn btn-primary">BOOK NOW</a>
+                </div>
+              </div>
           </div>
 
-          <div class="col-md-3">
-            <div class="member">
-              <div class="pic"><img src="assets/img/Gallery/gallery1.jpg" alt=""></div>
-              <h4> Wedding Drees Costume </h4>
-              <span>Good Style</span>
-            </div>
-          </div>
 
-          <div class="col-md-3">
-            <div class="member">
-              <div class="pic"><img src="assets/img/service/2.jpeg" alt=""></div>
-              <h4>Special Hair Treatment</h4>
-              <span>Cooling your Head</span>
-            </div>
-          </div>
 
-          <div class="col-md-3">
-            <div class="member">
-              <div class="pic"><img src="assets/img/service/3.jpeg" alt=""></div>
-              <h4>Special Skin Test</h4>
-              <span>we have good services</span>
-            </div>
-          </div>
+
 
         </div>
       </div>
